@@ -1,9 +1,4 @@
-exclude : ['README.rst', 'process.py']
+exclude : ['README.md', 'CNAME']
 safe: false
-auto: true
+auto: false
 
-JB :
-    analytics :
-        provider : google
-        google :
-            tracking_id : 'UA-8271754-48'
