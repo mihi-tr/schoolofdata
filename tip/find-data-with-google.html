@@ -10,5 +10,13 @@ files mentioning South Africa. </p>
 
 <h2>Try it Out</h2>
 <label for="query">Google: </label><input id="query" type="text"
-value="South Africa +filetype:csv" />
-<input class="button" value="Search" onclick="alert('todo')" />
+value="South Africa +filetype:csv" name="text" ></input>
+<input class="btn btn-primary" type="button" value="Search" onclick="ggl()" />
+
+<script>
+
+function ggl() {
+  var query=$("#query").val()
+  window.open("http://google.com/search?q="+query)
+  }
+</script>

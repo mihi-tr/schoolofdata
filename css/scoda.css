@@ -1,0 +1,21 @@
+
+label {
+  display: inline-block;
+  }
+input[type="text"] {
+  margin-bottom: 0px;
+  }
+h1 { font-size: 14pt; }
+h2 { font-size: 13pt; }
+
+div.tip .left {
+  padding-top: 90px;
+  float: left;
+  width: 50px;
+  }
+
+div.tip .right {
+  float: left;
+  width: 350px;
+  }
+
