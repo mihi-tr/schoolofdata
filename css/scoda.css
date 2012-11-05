@@ -19,3 +19,6 @@ div.tip .right {
   width: 350px;
   }
 
+body, html {
+  background: none;
+  }
