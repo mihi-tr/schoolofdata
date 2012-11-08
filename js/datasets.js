@@ -30,13 +30,13 @@ function show_dataset(offset) {
         $("#datasources").append(Mustache.render("<div class='accordion-group'>\
         <div class='accordion-heading'>\
         <a href='#{{slug}}' class='accordion-toggle' data-toggle='collapse' \
-        data-parent='#datasources'>{{title}}</a>\
+        data-parent='#datasources'>{{title}} <span class='label'>{{category}}</span>\
+        </a>\
         </div>\
         <div class='accordion-body collapse' id='{{slug}}'>\
         <div class='accordion-inner'>\
         <p>{{description}}</p>\
         <a href='{{link}}' target='_new'>{{link}}</a>\
-         <span class='label'>{{category}}</span>\
         </div></div></div>",data))
   })
   })
