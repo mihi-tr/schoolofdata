@@ -24,16 +24,19 @@ function show_dataset(offset) {
           link: d.attributes.link,
           slug: slugify(d.attributes.name),
           title: d.attributes.name,
-          description: d.attributes.description
+          description: d.attributes.description,
+          category: d.attributes.category
           }
         $("#datasources").append(Mustache.render("<div class='accordion-group'>\
         <div class='accordion-heading'>\
         <a href='#{{slug}}' class='accordion-toggle' data-toggle='collapse' \
-        data-parent='#datasources'>{{title}}</a></div>\
+        data-parent='#datasources'>{{title}}</a>\
+        </div>\
         <div class='accordion-body collapse' id='{{slug}}'>\
         <div class='accordion-inner'>\
         <p>{{description}}</p>\
         <a href='{{link}}' target='_new'>{{link}}</a>\
+         <span class='label'>{{category}}</span>\
         </div></div></div>",data))
   })
   })
