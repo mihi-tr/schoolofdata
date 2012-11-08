@@ -16,7 +16,7 @@ function create_offsetlist() {
 
 function show_dataset(offset) {
   dataset.query({size:10, offset:offset}).done(function() {
-  $("#requests").empty();
+  $("#datasources").empty();
       _.each(dataset.records.models, function(d) {
         $("#ol a").removeClass("active");
         $("#ol-"+(offset/10)).addClass("active");
