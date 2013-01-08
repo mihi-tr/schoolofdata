@@ -23,7 +23,7 @@ body {
   display: block !important;
 
   height: 100%;
-  min-height: 740px;
+ /* min-height: 740px; */
   
   overflow-x: hidden;
   overflow-y: auto;
@@ -55,13 +55,13 @@ body {
   overflow: hidden;
 
   width: 900px;
-  height: 700px;
+  height: 95%;
 
   left: 50%;
   top: 50%;
 
   margin-left: -450px;
-  margin-top: -350px;
+  margin-top: -47%; 
   
   padding: 40px 60px;
 
@@ -97,7 +97,7 @@ body {
 }
 
 .slides.template-default > article:not(.nobackground):not(.biglogo) {
-  background: url(images/logo-black.png) 710px 625px no-repeat;  
+  background: url(images/logo-black.png) bottom right no-repeat;  
   
   background-color: white;  
 } 
