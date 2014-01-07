@@ -54,14 +54,14 @@ body {
   position: absolute;
   overflow: hidden;
 
-  width: 900px;
+  width: 95%;
   height: 95%;
 
   left: 50%;
   top: 50%;
 
-  margin-left: -450px;
-  margin-top: -47%; 
+  margin-left: -47%;
+  margin-top: -35%; 
   
   padding: 40px 60px;
 
@@ -101,6 +101,7 @@ body {
   
   background-color: white;  
 } 
+
 
 .slides.template-io2011 > article:not(.nobackground):not(.biglogo) {
   background: url(images/colorbar.png) 0 600px repeat-x,
@@ -254,8 +255,8 @@ body {
   color: rgb(102, 102, 102);
   text-shadow: 0 1px 1px rgba(0, 0, 0, .1);
 
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 22px;
+  line-height: 28px;
 
   letter-spacing: -1px;
 }
@@ -309,7 +310,7 @@ h1 {
 
   padding: 0;
   margin: 0;
-  margin-top: 200px;
+  margin-top: 20%;
   padding-right: 40px;
 
   font-weight: 600;
@@ -368,9 +369,10 @@ ul {
   margin: 0;
   padding: 0;
 
-  margin-top: 40px;
+  margin-top: 5px;
 
   margin-left: .75em;
+  font-size: 90%;
 }
 ul:first-child {
   margin-top: 0;
@@ -382,7 +384,7 @@ li {
   padding: 0;
   margin: 0;
 
-  margin-bottom: .5em;
+  / *margin-bottom: .5em; */
 }
 li::before {
   content: '·';
@@ -609,4 +611,12 @@ article.smaller q::after {
 .prettyprint .dec, 
 .prettyprint .var { /* a declaration; a variable name */
   color: rgb(127, 0, 127);
-}  
+}
+
+ul.nobullets {
+  }
+
+ul.nobullets li::before {
+  content: "";
+  }
+

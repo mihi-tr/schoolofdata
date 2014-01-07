@@ -24,6 +24,27 @@
         curSlide=num; updateSlides();
         }
     </script>
+<!-- <script type="text/javascript">
+        var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-33874954-7']);
+                    _gaq.push(['_setDomainName', 'none']);
+                    _gaq.push(['_setAllowLinker', true]);
+                                        _gaq.push(['_trackPageview']);
+                                        _gaq.push(['_trackPageLoadTime']);
+          
+                    _gaq.push(['b._setAccount', 'UA-8271754-45']);
+                                        _gaq.push(['b._trackPageview']);
+                                        _gaq.push(['b._trackPageLoadTime']);
+                  (function() {
+          var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+: 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+          })();
+        </script> 
+-->        
   </head>
   
   <style>
@@ -68,7 +89,7 @@
 
       <article>
         <p>
-          <img class='centered' style='height: 500px' src='images/PDF-Extraction.png'>
+          <img class='centered' style='height: 95%' src='images/PDF-Extraction.png'>
         </p>
       </article>
       <article>
@@ -81,9 +102,10 @@
           select text in the relevant sections: Can you mark them as text? 
         </p>
         <p>
-          <ul>
-          <li>YES - then continue <a onclick="go_to(4)" href="#5">here</a></li>
-          <li>NO - continue <a onclick="go_to(9)" go_to(9) href="#10">here</a></li>
+          <ul class="nobullets">
+          <li><img src="images/glyphicons/glyphicons_206_ok_2.png"/> Yes - then continue <a onclick="go_to(4)" href="#5">here</a></li>
+          <li><img src="images/glyphicons/glyphicons_207_remove_2.png" />
+          No - continue <a onclick="go_to(9)" go_to(9) href="#10">here</a></li>
           </ul>
         </p>
       </article>
@@ -97,9 +119,9 @@
           yourself is how many PDFs will you handle and are they all the
           same?
         </p>
-         <ul>
-         <li>Few - Follow <a onclick="go_to(5)" href="#6">here</a></li>
-         <li>Many - go ahead <a onclick="go_to(6)" href="#7"> here </a>
+         <ul class="nobullets">
+         <li><img src="images/glyphicons/glyphicons_191_circle_minus.png"/> Few - Follow <a onclick="go_to(5)" href="#6">here</a></li>
+         <li><img src="images/glyphicons/glyphicons_190_circle_plus.png" /> Many - go ahead <a onclick="go_to(6)" href="#7"> here </a>
          </ul>
       </article>
 
@@ -129,9 +151,9 @@
           Handling a lot of documents and automatically requires some
           programming skills? Do you program or do you know someone?
         </p>
-         <ul>
-         <li>Yes - Follow <a onclick="go_to(7)" href="#8">here</a></li>
-         <li>No - go ahead <a onclick="go_to(8)" href="#9"> here </a>
+         <ul class="nobullets">
+         <li><img src="images/glyphicons/glyphicons_206_ok_2.png"/> Yes - Follow <a onclick="go_to(7)" href="#8">here</a></li>
+         <li><img src="images/glyphicons/glyphicons_207_remove_2.png" /> No - go ahead <a onclick="go_to(8)" href="#9"> here </a>
          </ul>
       </article>
 
@@ -196,7 +218,23 @@
         </p>
       </article>
 
-      
+         
+      <article>
+        <h3>
+          Extracting data from PDFs
+        </h3>
+        <p>
+          School of Data <a
+          href="http://schoolofdata.org" target="_top">Schoolofdata.org</a>
+        </p>
+        <p>
+          Licensed <a target="_top"
+          href="http://creativecommons.org/licenses/by-sa/3.0/">CC-Attribution-Sharealike</a>
+          </p>
+      <p>
+          Icons (CC-By) <a target="_top" href="http://glyphicons.com/">Glyphicons</a>
+        </p>
+      </article>
 
     </section>
 
