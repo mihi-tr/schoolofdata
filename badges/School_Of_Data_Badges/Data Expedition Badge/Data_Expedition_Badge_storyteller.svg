@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="123.3388"
+   height="142.40872"
+   id="svg35443"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Data_Expedition_Badge_storyteller.svg">
+  <defs
+     id="defs35445" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="61.669397"
+     inkscape:cy="71.204355"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="472"
+     inkscape:window-height="395"
+     inkscape:window-x="57"
+     inkscape:window-y="251"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata35448">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-313.3306,-461.15782)">
+    <g
+       style="display:inline"
+       id="g126099"
+       transform="matrix(1.1305653,0,0,1.1305653,678.70629,-1354.9357)"
+       inkscape:export-filename="/home/sam/Downloads/Documents/Jobs/Open Knowledge Foundation/School of Data Badges/PipelineAndRoles.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:#1fb2d7;fill-opacity:1;stroke:none;display:inline"
+         d="m -268.63224,1606.3588 54.5474,31.4849 0,62.9851 -54.5474,31.4924 -54.5474,-31.4924 0,-62.9851 54.5474,-31.4849 z"
+         id="path126101"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g126103"
+         transform="matrix(1.5266153,0,0,1.5266153,-3459.9755,-2194.365)"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           transform="matrix(0.12343666,0,0,0.12343666,1831.452,1824.9428)"
+           d="m 2315.2697,5699.6743 c 0,112.1363 -90.9044,203.0407 -203.0407,203.0407 -112.1363,0 -203.0407,-90.9044 -203.0407,-203.0407 0,-112.1362 90.9044,-203.0406 203.0407,-203.0406 112.1363,0 203.0407,90.9044 203.0407,203.0406 z"
+           sodipodi:ry="203.04066"
+           sodipodi:rx="203.04066"
+           sodipodi:cy="5699.6743"
+           sodipodi:cx="2112.229"
+           id="path126105"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path126107"
+           d="m 2072.3529,2542.9557 c 0,0 0.6234,6.858 -8.479,8.7284 10.7232,3.4912 19.8256,0 19.8256,0 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <path
+         style="fill:#1fb2d7;fill-opacity:1;stroke:none"
+         d="m -288.37709,1690.9796 9.61104,-26.6732 14.13571,7.726 7.5742,-15.6179 c -3.45783,-0.3515 -5.73529,-0.971 -11.17374,-1.6316 l 22.72447,-11.4418 2.15595,26.4948 c -3.0857,-5.0539 -5.15386,-6.5466 -6.87041,-9.1104 l -12.02702,20.1448 -13.86416,-8.0251 -10.97015,18.7824 z"
+         id="path126109"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+  </g>
+</svg>

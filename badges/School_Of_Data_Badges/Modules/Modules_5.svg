@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="124.35789"
+   height="143.59853"
+   id="svg36037"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Modules_5.svg">
+  <defs
+     id="defs36039" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="62.17894"
+     inkscape:cy="71.799266"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="472"
+     inkscape:window-height="395"
+     inkscape:window-x="57"
+     inkscape:window-y="251"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata36042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-312.82106,-460.56292)">
+    <g
+       id="g24221"
+       transform="matrix(1.1305653,0,0,1.1305653,773.68298,-846.17328)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/sam/Downloads/Documents/Jobs/Open Knowledge Foundation/School of Data Badges/changes26_02.png"
+         inkscape:connector-curvature="0"
+         id="path24134"
+         d="m -352.6406,1282.8403 -54.99782,-31.7472 -6e-5,-63.5105 39.62429,1.4978 15.37428,-33.2523 54.99763,31.7541 -2.9e-4,63.5105 -54.99832,31.7475 z"
+         style="fill:#1fb2d7;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ebebeb;fill-opacity:1;stroke:none"
+         d="m -352.64847,1261.6646 -36.85644,-21.3136 -6e-5,-42.3403 -18.12608,-10.4229 55.00263,-31.7623 -0.19147,21.0113 36.85639,21.3181 -0.0197,42.3442 -36.66538,21.1653 z"
+         id="path24136"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/sam/Downloads/Documents/Jobs/Open Knowledge Foundation/School of Data Badges/changes26_02.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+  </g>
+</svg>
